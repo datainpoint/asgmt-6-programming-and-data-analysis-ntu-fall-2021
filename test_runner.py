@@ -1,6 +1,5 @@
 import unittest
 import os
-import json
 import ipynb.fs.full.exercises as ex
 import numpy as np
 import pandas as pd
